@@ -67,7 +67,7 @@
     Логин и пароль для входа в админ-панель — Admin\zabbix/
 
 'Скриншот авторизации в админке'
-![zabbix1.png](/home/kargapoltcevks/-Zabbix-/img/)`
+![zabbix1.png](https://github.com/KargapoltcevKS/Zabbix/blob/main/img/zabbix1.png)`
 
 ---
 
