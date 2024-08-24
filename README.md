@@ -119,7 +119,7 @@
     'СКРИНШОТЫ'
 
   - 'Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу:
-    ![Agent.png](/home/kargapoltcevks/-Zabbix-/img/)`
+    ![Agent.png](https://github.com/KargapoltcevKS/Zabbix/blob/main/img/Agent.png)`
 
   - 'Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером:
     Команда: tail -f /var/log/zabbix/zabbix_agentd.log
