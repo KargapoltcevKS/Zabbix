@@ -121,16 +121,16 @@
 
   - 'Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером:
     Команда: tail -f /var/log/zabbix/zabbix_agentd.log
-   ![log kks.png](/home/kargapoltcevks/-Zabbix-/img/)
-   ![log kks2.png](/home/kargapoltcevks/-Zabbix-/img/)`
+   ![log kks.png](https://github.com/KargapoltcevKS/Zabbix/blob/main/img/log%20kks.png)
+   ![log kks2.png](https://github.com/KargapoltcevKS/Zabbix/blob/main/img/log%20kks2.png)`
    
   - 'Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные:
-   ![Latest data.png](/home/kargapoltcevks/-Zabbix-/img/)`
+   ![Latest data.png](https://github.com/KargapoltcevKS/Zabbix/blob/main/img/Latest%20data.png)`
    
   - 'Приложите в файл README.md текст использованных команд в GitHub:
      git clone https://github.com/KargapoltcevKS/-Zabbix-.git
-     git commit -m "comment"
-     git push origin
+     git commit -m "Zabbix"
+     git push main'
    
 
 
